@@ -1,0 +1,14 @@
+{
+  "name": "softrang-editor",
+  "version": "1.0.0",
+  "description": "A lightweight, modern, and dependency-free Softrang Text Editor built with pure JavaScript and CSS by Softrang.",
+  "main": "softrang-editor.js",
+  "author": "Softrang",
+  "license": "MIT",
+  "homepage": "https://www.softrang.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softrang/softrang-editor.git"
+  },
+  "keywords": ["text-editor", "softrang-text", "softrang", "softrang-editor", "javascript", "cdn"]
+}

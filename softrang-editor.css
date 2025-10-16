@@ -1,0 +1,14 @@
+/*!
+ * Softrang Custom Text Editor CSS | MIT License
+ * Copyright (c) 2025 Softrang | https://www.softrang.com
+ */
+  .softrang-editor-wrap{font-family: Poppins,Arial,Helvetica,sans-serif;max-width:100%;border:1px solid #d7e7ff;border-radius:10px;overflow:hidden;background:#fff}
+  .softrang-toolbar{display:flex;flex-wrap:wrap;gap:6px;padding:8px;background:#eaf1ff;border-bottom:1px solid #cfe3ff;align-items:center}
+  .softrang-toolbar button, .softrang-toolbar select, .softrang-toolbar input[type=color]{border:1px solid #007bff;background:#fff;color:#007bff;padding:6px;border-radius:6px;cursor:pointer}
+  .softrang-toolbar button:hover{background:#007bff;color:#fff}
+  .softrang-editable{min-height:240px;padding:14px;outline:none;font-size:15px;line-height:1.6}
+  .softrang-footer{padding:8px 12px;font-size:13px;color:#555;background:#fbfcff;border-top:1px solid #f1f7ff;text-align:right}
+  .softrang-hidden{display:none !important}
+  .softrang-dark .softrang-toolbar{background:#222;border-color:#333}
+  .softrang-dark .softrang-toolbar button{background:#111;border-color:#444;color:#eee}
+  
